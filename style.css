@@ -18,9 +18,7 @@ html {
     padding: 0px;
     margin: 0px;
     top: 0px;
-    /* box-sizing: border-box; */
-    /* overflow: scroll; */
-    /* overflow-x: hidden; */
+    overflow-x:hidden;
 }
 
 body {
